@@ -1,0 +1,12 @@
+#pt {
+  color: var(--bs-body-bg);
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 34px;
+}
+
+#pb {
+  font-family: Montserrat, sans-serif;
+  font-size: 13px;
+}
+

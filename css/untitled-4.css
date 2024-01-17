@@ -1,0 +1,7 @@
+#vp {
+  background: var(--bs-border-color-translucent);
+  width: 100%;
+  border: white thin solid;
+  border-radius: 30px;
+}
+

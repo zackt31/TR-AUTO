@@ -1,0 +1,19 @@
+#subtitle {
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+  margin-right: 0px;
+}
+
+#title {
+  font-size: 32px;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  margin-right: 0px;
+  padding-right: 0px;
+  width: auto;
+}
+

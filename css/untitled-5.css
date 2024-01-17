@@ -1,0 +1,6 @@
+#areo {
+  background: url("../../assets/img/back.jpg") center / cover no-repeat, var(--bs-emphasis-color);
+  height: 444px;
+  padding: 0;
+}
+
